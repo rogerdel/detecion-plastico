@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/detecion-plastico/static/css/main.f18200e2.css",
+    "main.js": "/detecion-plastico/static/js/main.35611072.js",
+    "index.html": "/detecion-plastico/index.html",
+    "main.f18200e2.css.map": "/detecion-plastico/static/css/main.f18200e2.css.map",
+    "main.35611072.js.map": "/detecion-plastico/static/js/main.35611072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18200e2.css",
+    "static/js/main.35611072.js"
+  ]
+}
